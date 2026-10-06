@@ -10,6 +10,11 @@
             Console.WriteLine($"total active passengers: {t1.Average_active_passangers_carriages()}");
         }
 
+        static void GithubTest()
+        {
+            Console.WriteLine("github test 1");
+        }
+
 
         
     }
