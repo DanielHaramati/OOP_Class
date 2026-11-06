@@ -4,7 +4,7 @@ namespace Buildings
       {
             public const int MAX_APARTMENTS = 100;
             private string address;
-            private Apartment[] apartments;
+            private Apartment[] apartments; // sets an empty array of apartments
 
             public string ApartmentSizeCategory(Apartment ap)
             {

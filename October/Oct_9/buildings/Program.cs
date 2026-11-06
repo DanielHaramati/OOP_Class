@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello");
             Room r1 = new Room(1,2,"h");
-            System.Console.WriteLine(r1.GetLength());
+            Console.WriteLine(r1.GetLength());
         }
     }
 }
